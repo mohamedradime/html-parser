@@ -1,0 +1,8 @@
+
+*.cpp text
+
+.gitignore text
+.gitattributes text
+
+
+* text eol=lf
